@@ -1,17 +1,23 @@
-# Goldi Pal | My Projects
+# Goldi Pal — Portfolio Website
 
-Hello! I am Goldi Pal.
+A responsive dark-themed frontend developer portfolio built with HTML, CSS and JavaScript.
 
-I am a Diploma Computer Science Engineering student and Frontend Web Developer.
+## Files
+- `index.html` — website structure
+- `style.css` — responsive styling
+- `script.js` — mobile navigation and current year
+- `assets/profile.jpg` — add your own profile photo here
 
-## Skills
-- HTML
-- CSS
-- JavaScript
-- Python
+## Add your photo
+1. Choose a clear profile photo.
+2. Rename it to `profile.jpg`.
+3. Put it inside the `assets` folder, replacing this note.
+4. Open `index.html` to preview the portfolio.
 
-## About
-This repository contains my programming practice and projects.
+If no photo is added, the site shows a `GP` initials fallback.
 
-## Goal
-To become a professional software developer.
+## Run locally
+Open `index.html` in your browser, or use VS Code Live Server.
+
+## Publish
+Upload all files and the `assets` folder to a GitHub repository. Enable GitHub Pages from `Settings → Pages`, selecting `main` and `/(root)`.
